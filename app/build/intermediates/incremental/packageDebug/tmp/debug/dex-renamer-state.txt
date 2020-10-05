@@ -1,4 +1,4 @@
-#Sat Sep 26 20:04:51 EDT 2020
+#Mon Oct 05 19:14:22 EDT 2020
 base.0=/Users/sakinah/AndroidStudioProjects/Flixster/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

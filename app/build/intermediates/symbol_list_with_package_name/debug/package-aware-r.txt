@@ -912,6 +912,7 @@ id checkbox
 id checked
 id chronometer
 id collapseActionView
+id container
 id content
 id contentPanel
 id cos
@@ -991,11 +992,13 @@ id parentRelative
 id path
 id pathRelative
 id percent
+id player
 id position
 id postLayout
 id progress_circular
 id progress_horizontal
 id radio
+id ratingBar
 id ratio
 id rectangles
 id reverseSawtooth
@@ -1115,6 +1118,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_detail
 layout activity_main
 layout custom_dialog
 layout item_movie
